@@ -1,4 +1,4 @@
-# Relatorio Tecnico do Estagio]
+# Relatorio Tecnico do Estagio
 
 Único objetivo de armazenar esse relatório na nuvem do GitHub.
 
